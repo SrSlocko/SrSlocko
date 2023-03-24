@@ -1,7 +1,7 @@
 # Hi there, I am Leonel 👋
 
 - 🌐 I make web applications and websites
-- 🪙 I have worked in the web3 space and I am regularly learning new things in the space
+- 📝I have worked in the web3 space and I am regularly learning new things in the space
 - 📝 I write blog posts to spread my knowledge on development and new technologies
 - 📖 I am always looking to learn new technologies and expand my knowledge
 - 👐 All my projects are open-source and whenever I get the chance to, I contribute to other open-source projects in the form of bug reports, documentation fixes, and code contributions (fixed and new features)
